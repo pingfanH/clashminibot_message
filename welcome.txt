@@ -1,1 +1,1 @@
-Welcome {member.mention} to clashmini fan made!read roles first
+Welcome {member.mention} to clashmini fan made!read rules first
